@@ -5,4 +5,5 @@ Change1
 *Making a commit to create Merge Conflict*
 
 The following line will be modified in both branches.
-This branch is new-branch-1
+
+This branch is new-branch-2
